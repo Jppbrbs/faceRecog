@@ -25,6 +25,6 @@ The purpose of this project is not to have accurate results. Just, as I said abo
 
 ---
 #### References
-[[1](https://learnopencv.com/pytorch-for-beginners-image-classification-using-pre-trained-models/)]
+[[https://learnopencv.com/pytorch-for-beginners-image-classification-using-pre-trained-models/](https://learnopencv.com/pytorch-for-beginners-image-classification-using-pre-trained-models/)]
 
 
