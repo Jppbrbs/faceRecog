@@ -12,12 +12,15 @@ This project is divided as follows:
 deepnet
    * __init.py__       : standard initialization python code
    * deepnetclassfy.py : python class that contains the image classification code
+```
 
+```
 examples
    * images          : images to try out the program
    * testdeepnet.py  : 'main' program (that should be run!)
 ```
 
+These are the main folders of this project.
 
 To run this project, I used PyCharm environment under python3 --version 3.8.4
 
