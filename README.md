@@ -2,7 +2,7 @@
 
 This basic project had the intention to demonstrate and study the process of Image Classification using pre-trained models.
 
-Under Dr. Bai surpervisory, we would implement this technology on a small propotype of a self-driven car robot.
+Under professors supervision, we would implement this technology on a small propotype of a self-driven car robot.
 
 To understand better the process of image classification, [this link](https://learnopencv.com/pytorch-for-beginners-image-classification-using-pre-trained-models/) was used as a reference.
 
